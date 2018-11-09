@@ -11,3 +11,4 @@ class Solution:
             max_total = max(max_now,max_total)
             
         return max_total
+        
